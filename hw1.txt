@@ -1,0 +1,30 @@
+https://github.com/Tyler987/.dotfiles
+
+During this homework one assignment there were many tasks that needed to be completed accurately or many problems
+may arise. This included creating a github account, linking it to the powershell terminal with the files which used given commands from the homework and using a git repository. It is very important to make sure you are in the correct files and directories because it could mess up the homework entirely and you would have to fix it or restart.
+	
+Some problems that came with the homework that I had were with making sure the correct Ids and files were in the
+correct directories such was the .ssh. Another issue was copying and pasting the correct lines that were given in
+the homework because the begining of a line would have a # and when you paste it, it would give the other command
+lines a # as well which had to be fixed. My main problem is that my windows was not up to date so I had to update 
+which allowed to actually complete the assignment remotely instead of only going to the lab and compelting it in 
+person.
+
+In conclusion, this assignment helped me with many things and has set me up to use github with the powershell 
+terminal which will be used for assignments, labs and more and possibly outside of class so I believe it was 
+a usful learning experience. At first I struggled in the lab, but with the help of Professor P. I was able to 
+successful. As for my sources that would be the given homework, slides and Professor P. These were all very usful when completing the assignemnt.
+
+touch hw01.txt
+cd
+mkdir .dotfiles
+pwd
+cd .dotfiles
+touch README.md
+vim README.md
+copy and paste
+:wq
+cat README.md
+cp /.vimrc -t ~/.dotfiles
+run init repo given commands
+
